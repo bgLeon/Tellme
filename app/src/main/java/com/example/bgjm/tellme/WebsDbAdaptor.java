@@ -113,7 +113,7 @@ public class WebsDbAdaptor {
         db.delete(DATABASE_TABLE, null, null);
     }
 
-    public boolean actualizaWeb(long id, Webs web) {
+    public boolean actualizaWeb(long id, Web web) {
         Log.i(TAG, "Actualiza web " + id + " " + web);
         ContentValues args = new ContentValues();
         args.put(COL_TITULO, web.getTitulo());
