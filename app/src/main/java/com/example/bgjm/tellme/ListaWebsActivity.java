@@ -1,5 +1,7 @@
 package com.example.bgjm.tellme;
-
+/**
+ * @author hefesto
+ */
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
