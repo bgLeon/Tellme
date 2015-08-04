@@ -1,5 +1,5 @@
 package com.example.bgjm.tellme; /**
- * Created by Borja on 08/06/2015.
+ * @author hefesto
  */
 
 import android.content.ContentValues;

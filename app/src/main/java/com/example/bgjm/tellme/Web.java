@@ -2,13 +2,13 @@ package com.example.bgjm.tellme;
 
 
 /**
- * Created by Borja on 17/06/2015.
+ * @author hefesto
  */
 public class Web {
     private String titulo;
     private String url;
 
-    public Web(String titulo, String Url) {
+    public Web(String titulo, String url) {
         this.titulo = titulo;
         this.url = url;
     }
