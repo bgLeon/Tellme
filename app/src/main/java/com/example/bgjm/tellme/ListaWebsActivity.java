@@ -37,6 +37,7 @@ public class ListaWebsActivity extends ListActivity{
         super.onCreate(savedInstanceState);
         Log.d(TAG, "onCreate");
         setContentView(R.layout.activity_list);
+        webDbAdaptor = new WebsDbAdaptor(this);
         websCursor = webDbAdaptor.recuperaTodasLasWebs();
         startManagingCursor(websCursor); // le dice a la actividad que gestione
         // el cursor
