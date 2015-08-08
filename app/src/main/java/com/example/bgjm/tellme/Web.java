@@ -1,12 +1,16 @@
 package com.example.bgjm.tellme;
 
 
+import java.io.Serializable;
+
 /**
  * @author hefesto
  */
-public class Web {
+public class Web implements Serializable {
+    private static final long serialVersionUID = 4349879151820234260L;
     private String titulo;
     private String url;
+    public static final String WEB="web";
 
     public Web(String titulo, String url) {
         this.titulo = titulo;

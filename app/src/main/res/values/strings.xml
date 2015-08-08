@@ -8,4 +8,12 @@
     <string name="url">URL</string>
     <string name="cancelar">Cancelar</string>
     <string name="guardar">Guardar</string>
+    <string name="TELLME">Tell me</string>
+    <string name="msg_info">Lista de Webs de las que quieres ser avisado </string>
+    <string name="a_adir">añadir</string>
+    <string name="borrar_lista">Borrar Lista</string>
+    <string name="contenido_de_la_web">Contenido de la web</string>
+    <string name="info">Info</string>
+    <string name="dialogo_borrar_lista">¿Está seguro de que quiere borrar todos los datos?</string>
+    <string name="error_detalle">Problema al editar o crear el producto</string>
 </resources>
