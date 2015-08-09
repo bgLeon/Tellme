@@ -16,4 +16,5 @@
     <string name="info">Info</string>
     <string name="dialogo_borrar_lista">¿Está seguro de que quiere borrar todos los datos?</string>
     <string name="error_detalle">Problema al editar o crear el producto</string>
+    <string name="Web_guardada">Su web se ha guardado</string>
 </resources>
